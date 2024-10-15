@@ -1,0 +1,2 @@
+Olvass el!
+vagy ne
