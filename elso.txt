@@ -1,2 +1,9 @@
 A legelső fájl!
+ juhaszkitti
 teszt1
+=======
+
+Eszter módosítása
+
+Ez a szerkesztés az első fájlon látható, hogy remekül megy.
+ develop
